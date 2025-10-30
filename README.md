@@ -4,13 +4,15 @@
 ---
 
 ## 1. Présentation
-**Sayca Delta** est un projet de recherche, de formation et de développement initié par **Sayca Labs**.  
-Il explore un modèle d’**intelligence augmentée** appelé **Intelligence Triadique (Δ)** — une structure de collaboration équilibrée entre un humain et deux intelligences artificielles spécialisées :  
-- **le Cristalliseur**, qui structure avec l'humain et corrige,
-- **le Producteur**, qui exécute avec l'humain et matérialise.
+**Sayca Delta** est un projet de recherche, de formation et de développement initié par **Sayca Labs**.
+Il explore un modèle original d’**intelligence augmentée** de l'utilisateur, appelé **Intelligence Triadique (Δ)** — une structure de collaboration équilibrée entre un humain et deux intelligences artificielles avec des rôles distincts :  
+- l'**Architecte humain**, responsable et modeleur de cette intelligence de groupe,
+- **le Cristalliseur IA**, qui structure avec l'humain et corrige via sa puissance itérative,
+- **le Producteur IA**, qui exécute et matérialise via son autre puissance itérative.
 
-Ce projet vise à transformer la relation “utilisateur–IA” en un **système cognitif coopératif**, où l’humain agit comme **Architecte global** de sa propre Triade.
-Concrètement, l'usage peut se faire dans la majorité des expériences dans la vie de l'utilisateur.
+Ce projet vise à transformer la relation “utilisateur–IA” en un **système cognitif coopératif**, où l’humain agit comme **Architecte global** de sa propre Triade, et non plus comme un utilisateur de type archaïque.
+
+**Concrètement**, l'usage peut se faire dans la majorité des expériences dans la vie de l'utilisateur, 
 
 ---
 
