@@ -1,6 +1,12 @@
 # 🧠 SAYCA DELTA  
 ### *Vers un modèle opérationnel d’intelligence augmentée : l’Intelligence Triadique (Δ)*
 
+# ⚠️ Disclaimer
+1. Le sarcasme envers l’usage de l’IA traduit souvent une peur de dévalorisation cognitive.  
+2. L’objectif n’est pas de protéger l’ego, mais d’entraîner la **méta-cognition** : comprendre et piloter sa pensée assistée pour accroître productivité et fiabilité.  
+3. La posture juste : ne pas débattre. Les opinions importent peu ; les résultats parlent d’eux-mêmes.  
+4. Si ces principes posent problème, il est préférable de ne pas appliquer l’**intelligence triadique**.
+
 ## 1. Présentation
 
 **Sayca Delta** est un projet de **recherche et développement appliqué** initié et dirigé par **Sayca Labs**.  
