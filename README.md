@@ -2,10 +2,11 @@
 ### *Vers un modèle opérationnel d’intelligence augmentée : l’Intelligence Triadique (Δ)*
 
 # ⚠️ Disclaimer
-1. Le sarcasme envers l’usage de l’IA traduit souvent une peur de dévalorisation cognitive.  
-2. L’objectif n’est pas de protéger l’ego, mais d’entraîner la **méta-cognition** : comprendre et piloter sa pensée assistée pour accroître productivité et fiabilité.  
-3. La posture juste : ne pas débattre. Les opinions importent peu ; les résultats parlent d’eux-mêmes.  
-4. Si ces principes posent problème, il est préférable de ne pas appliquer l’**intelligence triadique**.
+
+1. Le rejet ou le sarcasme envers l’usage de l’IA traduit souvent non une réflexion rationnelle, mais un réflexe de protection de l’ego face à une possible dévalorisation cognitive.
+2. Ici, l’objectif n’est pas de protéger l’ego mais d’entraîner la **méta-cognition** : comprendre et piloter sa pensée assistée pour accroître productivité et fiabilité.
+3. Les échanges doivent rester rationnels, fondés et constructifs. Les réactions à chaud, la peur ou le rejet de l’IA n’ont pas leur place dans mes travaux ni dans les discussions associées, car elles n’apportent rien d’utile.
+4. Si ces principes posent problème, je recommande fortement de ne pas appliquer mes protocoles architecturaux.
 
 ## 1. Présentation
 
