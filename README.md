@@ -3,9 +3,9 @@
 
 ![Status](https://img.shields.io/badge/Status-Open_Research-blue) ![License](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-green)
 
-La **Triade Récursive** est un protocole d'ingénierie cognitive visant à stabiliser et amplifier la collaboration entre l'Homme et les IAs de toutes catégories fonctionnelles.
+La **Triade Récursive** est mon premier protocole cognitif visant à stabiliser et amplifier la collaboration entre l'Homme et les agents artificiels de toutes catégories fonctionnelles.
 
-Il dépasse le modèle conversationnel primitif (la "Dyade" Homme-Chatbot) pour introduire une structure triangulaire de contrôle, séparant l'intention stratégique de l'exécution tactique.
+Il dépasse le modèle conversationnel primitif (la "Dyade" Utilisateur<=>Chatbot) pour introduire une structure triangulaire de contrôle, séparant l'intention stratégique de l'exécution tactique.
 
 ---
 
