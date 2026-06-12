@@ -14,8 +14,8 @@ Il dépasse le modèle conversationnel primitif (la "Dyade" Utilisateur<=>Chatbo
 2. [Taxonomie Cognitive](#-taxonomie-cognitive)
 3. [Architecture du Système](#-architecture-du-système)
 4. [Topologie & Diagramme](#-topologie--diagramme)
-5. [Structure du Dépôt](#-structure-du-dépôt)
-6. [Citation & Licence](#-citation--licence)
+5. ~[Structure du Dépôt](#-structure-du-dépôt)~
+6. ~[Citation & Licence](#-citation--licence)~
 
 ---
 
