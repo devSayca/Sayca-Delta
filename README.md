@@ -103,6 +103,6 @@ flowchart TD
 
 ## ~Citation & Licence~
 
-Premier projet en cours de développement, sans licence active, pour l'alimentation des autres projets licenciés.
+Premier projet considéré Open-Research pour l'alimentation des autres projets licenciés.
 
 ---
