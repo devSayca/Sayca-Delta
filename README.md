@@ -59,6 +59,8 @@ Une instance dédiée exclusivement à la performance et au volume.
 
 Le flux de travail suit un protocole strict pour éviter la perte de signal.
 
+### Mermaid nécessaire pour la lecture du graphe
+
 ```mermaid
 flowchart TD
     %% Définition du Noyau de Décision
