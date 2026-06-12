@@ -92,3 +92,17 @@ flowchart TD
     linkStyle 0 stroke:#333,stroke-width:2px;
     linkStyle 1 stroke:#333,stroke-width:4px;
 ```
+
+---
+
+## ~Structure du Dépôt~
+
+**Répertoire indisponible hors document de présentation.**
+
+---
+
+## ~Citation & Licence~
+
+Premier projet en cours de développement, sans licence active, pour l'alimentation des autres projets licenciés.
+
+---
