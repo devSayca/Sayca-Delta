@@ -15,7 +15,7 @@ Il dépasse le modèle conversationnel primitif (la "Dyade" Utilisateur<=>Chatbo
 3. [Architecture du Système](#-architecture-du-système)
 4. [Topologie & Diagramme](#-topologie--diagramme)
 5. ~[Structure du Dépôt](#-structure-du-dépôt)~
-6. ~[Citation & Licence](#-citation--licence)~
+6. [Citation & Licence](#-citation--licence)
 
 ---
 
@@ -101,8 +101,10 @@ flowchart TD
 
 ---
 
-## ~Citation & Licence~
+## Citation & Licence
 
 Premier projet considéré Open-Research pour l'alimentation des autres projets licenciés.
+
+**Sayca Jason FERONE - Sayca Labs 2026**
 
 ---
