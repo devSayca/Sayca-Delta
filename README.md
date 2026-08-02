@@ -1,3 +1,9 @@
+⚠️ **This project is entirely deprecated.**
+
+📰 **This is an archive of a former work before 42 cursus and Sayca Labs.**
+
+🇫🇷 **This archive was saved in its original french version.**
+
 # Recursive Triad (Δ)
 > **Cybernetic Framework for user's augmented cognition.**
 
